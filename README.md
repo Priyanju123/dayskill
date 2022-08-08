@@ -1,0 +1,2 @@
+# dayskill
+regarding traning 
